@@ -9,10 +9,10 @@ Bu proje, HTML ve CSS kullanılarak hazırlanmış basit bir yazar web sayfasıd
 - Hayatı (Info) ve kitapları (Books) bölümü
 - Temiz ve sade tasarım
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS 
 - Google Fonts (Lato)
 
 ### Eray Kıyıcı
