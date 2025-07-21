@@ -2,6 +2,8 @@
 
 Bu proje, HTML ve CSS kullanılarak hazırlanmış basit bir yazar web sayfasıdır. George R. R. Martin hakkında görsel, info ve kitap listesi bölümleri içerir.
 
+[Siteye Gitmek İçin](https://eraykiyici.github.io/tribute-website/)
+
 ## Özellikler
 
 - Navbar
