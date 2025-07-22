@@ -18,7 +18,7 @@ nav {
 
 nav h1 {
   margin: 0;
-  font-size: 22px;
+  font-size: 1.3rem;
 }
 
 nav ul {
@@ -43,7 +43,6 @@ nav ul li a {
 }
 
 #home img {
-  width: auto;
   max-width: 100%;
   height: auto;
 }
@@ -55,6 +54,12 @@ nav ul li a {
   color: #ddd;
 }
 
+.info-class {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
 #books {
   background-color: #5d7680;
   color: white;
@@ -64,20 +69,20 @@ nav ul li a {
 }
 
 #books h2 {
-  text-align: center;
   margin-bottom: 30px;
 }
 
 #books ul {
   margin: 0 auto;
+  padding-left: 0;
   line-height: 1.6;
   list-style: none;
 }
 
 .container {
-  padding: 60px 20px;
   width: 100%;
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
 }
 
 h2 {
