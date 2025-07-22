@@ -1,3 +1,5 @@
+
+
 body {
   font-family: 'Lato', sans-serif;
   margin: 0;
@@ -58,6 +60,7 @@ nav ul li a {
   color: white;
   padding: 60px 20px;
   text-align: center;
+  margin-top: 40px;
 }
 
 #books h2 {
@@ -66,7 +69,6 @@ nav ul li a {
 }
 
 #books ul {
-  max-width: 800px;
   margin: 0 auto;
   line-height: 1.6;
   list-style: none;
@@ -74,7 +76,7 @@ nav ul li a {
 
 .container {
   padding: 60px 20px;
-  max-width: 800px;
+  width: 100%;
   margin: 0 auto;
 }
 
